@@ -7,7 +7,7 @@ include_once "includes/_header.php";
 
 <div class="body">
 
-    <h1 class="text">bodyyziin</h1>
+    <h1 class="text" style="color: black;">bodyyziin</h1>
 
 </div>
 

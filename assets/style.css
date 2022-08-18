@@ -17,12 +17,12 @@ margin: 0px;
 width: 100%;
 height: 500px;
 background-color: #F9F7ED;
-padding-top: 5%;
+padding-top: 6%;
 }
 
 .Logo
 {
-height: 150px;
+height: 105px;
 text-align: center;
 margin-right: auto;
 margin-left: auto;
@@ -32,19 +32,19 @@ display: block;
 .Block1
 {
 width: 100%;
-height:210px;
+height:180px;
 background-color:#e8e6bf;
 display: block;
-padding-top: 1%;
+padding-top: 2%;
 }
 
 .Block2
 {
-margin-top: 10px;
+margin-top: 35px;
 margin-left: 5%;
 margin-right: 5%;
 width: 90%;
-height:110px;
+height:80px;
 background-color:#aa9f70;
 position: absolute;
 display: block;
@@ -67,18 +67,17 @@ background-color: #aa9f70;
 
 .texthead
 {
-size: 15px;
 font-family: modak;
 color: white;
 text-align: center;
-margin-top: 8%;
+margin-top: 5%;
 font-weight: 100;
 }
 
 .text
 {
-size: 15px;
 font-family: modak;
+color: white;
 text-align: center;
 font-weight: 100;
 }
