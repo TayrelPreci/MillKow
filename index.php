@@ -39,7 +39,7 @@ include_once "includes/_header.php";
         <div class="slideshow-container">
 
             <!-- Full-width images with number and caption text -->
-            <div class="mySlides ">
+            <div class="mySlides">
                 <div class="numbertext">1 / 3</div>
                 <img src="./imagens/Banner_1.png" style="width:100%">
                 <div class="text">vaquinhas</div>
